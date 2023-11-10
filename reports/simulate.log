@@ -1,0 +1,16 @@
+Time resolution is 1 ps
+Reading counter_la_fir.hex
+counter_la_fir.hex loaded into memory
+Memory 5 bytes = 0x6f 0x00 0x00 0x0b 0x13
+LA Test 1 started
+LA Test 2 passed
+second simulation start
+start latency timer
+start of second Process, total cycle =      284700
+End of second Process, total cycle =      722946
+third simulation start
+start latency timer
+start of third Process, total cycle =      764689
+End of third Process, total cycle =     1202935
+$finish called at time : 30073462500 ps : File "D:/acer/Desktop/SOC/lab4/Caravel_2/testbench/counter_la_fir/counter_la_fir_tb.v" Line 258
+INFO: xsimkernel Simulation Memory Usage: 23156 KB (Peak: 23156 KB), Simulation CPU Usage: 265983 ms
